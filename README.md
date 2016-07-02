@@ -1,2 +1,2 @@
-# kenya-universities-lists-laravel
-A list of all universities in kenya for laravel select list
+# kenya-universities-list-laravel
+A list of all universities in kenya for laravel drop down select list
